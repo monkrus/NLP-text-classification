@@ -1,0 +1,84 @@
+query,intent
+你们的产品描述误导消费者,wrong_description
+我还没收到退款,refund_issue
+Сколько займет доставка до России?,shipping_estimate
+Почему мой заказ отменили?,cancelled_order
+Как отследить мою посылку?,shipment_tracking
+i got a defective product,defective_product
+i need help assembling this,assembly_issue
+the product makes 2 much noise,noisy_product
+cant login to my acct,login_issue
+ur app keeps crashing,app_crash
+where r u? i'm waiting!,call_wait_time
+where are you guys? I've been waiting forever!,call_wait_time
+"I've been on hold for 15 minutes, this is ridiculous",call_wait_time
+Why is the wait time so long to speak to an agent?,call_wait_time
+How much longer until I can speak to someone?,call_wait_time
+y was my order canceld?,cancelled_order
+i got a defctive item,defective_product
+i nvr recvd my refund,refund_issue
+my ord shows delivrd but i didnt get it,missing_order
+how 2 track my shipment?,shipment_tracking
+how can i upgrd my plan?,upgrade_plan
+i ddnt get my cnfirmation email,missing_confirmation
+help me setup my new devc,setup_help
+my passwrd is not workin,reset_password
+how long wil delvry take 2 russia?,shipping_estimate
+ur prdct descrptns r misleadin,wrong_description
+where's the chnese supprt?,localization_request
+my addr needs changin,change_shipping
+"the prdct quality is so bad, i wnt 2 rtrn it",return_request
+can u hlp me assembl this?,assembly_issue
+"the prodct makes 2 much noise, no way i can bear it",noisy_product
+i can't log in2 my acnt,login_issue
+wen will we hav cnese suprt?,localization_request
+your app keeps crashin',app_crash
+my ordr got canceld,cancelled_order
+where's my refund? i still dnt hav it,refund_issue
+when will my ordr arrive?,shipping_estimate
+how do i track my shipment,shipment_tracking
+i got a defective prdct,defective_product
+can u hlp me put it 2gthr?,assembly_issue
+the prodct is 2 noisy,noisy_product
+i can't log in my account,login_issue
+wen will u hav chns supprt?,localization_request
+ur app keeps crashn,app_crash
+i got the wrong item,wrong_item
+u guyz descrptns r so wrong,wrong_description
+i havent got my refund yet,refund_issue
+how long wil it tak 2 ship 2 russia?,shipping_estimate
+y did u cancld my ordr?,cancelled_order
+i got a defectv prdct,defective_product
+i need asstnce with assemblin this,assembly_issue
+the prdct is 2 loud,noisy_product
+i cnt log in2 my acct,login_issue
+wen cn we get chinese supprt?,localization_request
+my shipng addr needs changin,change_shipping
+i want 2 return this prdct,return_request
+can u asst me wit this?,assembly_issue
+"the prodct is 2 noisy, i can't handle it",noisy_product
+где моя посылка?,shipment_tracking
+что случилось с моим заказом?,cancelled_order
+мой заказ отменен,cancelled_order
+где поддержка на китайском языке?,localization_request
+мой адрес доставки нужно изменить,change_shipping
+как отследить мою посылку?,shipment_tracking
+почему я не получил возврат денег?,refund_issue
+помогите настроить моё устройство,setup_help
+как долго займет доставка в Россию?,shipping_estimate
+мой пароль не работает,reset_password
+почему мой заказ отменен?,cancelled_order
+продукт слишком шумный,noisy_product
+я не могу войти в свою учетную запись,login_issue
+когда будет поддержка на китайском языке?,localization_request
+помогите собрать это,assembly_issue
+я получил неправильный товар,wrong_item
+где мой возврат?,refund_issue
+почему у меня такой плохой звук,noisy_product
+я не получил подтверждение заказа,missing_confirmation
+помогите настроить новое устройство,setup_help
+почему отменен мой заказ?,cancelled_order
+продукт неисправный,defective_product
+как отследить мою посылку?,shipment_tracking
+помогите с этим,assembly_issue
+продукт слишком громкий,noisy_product
