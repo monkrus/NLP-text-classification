@@ -5,11 +5,13 @@ The model takes raw text queries as input and outputs a predicted intent label.
 Performance is evaluated using stratified cross-validation.
 **This is useful for goal-oriented chatbots and voice assistants to determine user intent and respond appropriately.**
 
-- Initial attempt to create a template for an NLP text classification.
-  - Model needs improvement as its score is still pretty low **(0.53)**.
+ ❗Model needs improvement❗
   - English and non-English words including slang, abbreviations, typos, etc.
-  - One of the CSV files  does not have enough samples for each class (in our case 5 pieces is required).
-
+  - One of the CSV files  does not have enough samples for each class (in our case 5 pieces are required).
+    
+  🔴 Query_interpretation is an initial attempt to create a template for an NLP text classification. Score **(0.53)**
+  🔴 Query_interpretation2 is using TF-IDF, but it didn't improve the score much.
+  
 ### Overview
 - CSV dataset with 'query' and 'intent' columns. Queries are text, intents are labels.
    - English and non-English words including slang, abbreviations, typos, etc.
